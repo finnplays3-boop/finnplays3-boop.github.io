@@ -1,6 +1,6 @@
 /*BEGIN Xbox 360 Controller Styling*/
 .controller.xbox-old {
-    background: url(bg2.png);
+    background: url(https://imgur.com/a/zB4LwRe.png);
     height: 544px;
     width: 668px;
     /*    margin-left: -332px;
@@ -25,7 +25,7 @@
 .xbox-old .trigger {
     width: 33px;
     height: 76px;
-    background: url(trigger2.png);
+    background: url(https://imgur.com/a/Ynh2llZ.png);
     opacity: 0;
 }
 
@@ -42,7 +42,7 @@
 .xbox-old .bumper {
     width: 119px;
     height: 44px;
-    background: url(bumper2.png);
+    background: url(https://imgur.com/a/eG1hjrV.png);
     opacity: 0;
 }
 
@@ -77,7 +77,7 @@
 }
 
 .xbox-old .back, .xbox-old .start {
-    background: url(arrow2.png);
+    background: url(https://imgur.com/a/RBIAeGs.png);
     width: 34px;
     height: 29px;
 }
@@ -135,24 +135,24 @@
 }
 
 .xbox-old .a {
-    background: url(a2.png);
+    background: url(https://imgur.com/a/pAFMJGc.png);
     top: 108px;
     left: 55px;
 }
 
 .xbox-old .b {
-    background: url(b2.png);
+    background: url(https://imgur.com/a/idKo7di.png);
     top: 54px;
     right: 0px;
 }
 
 .xbox-old .x {
-    background: url(x2.png);
+    background: url(https://imgur.com/a/Zf9BzoA.png);
     top: 54px;
 }
 
 .xbox-old .y {
-    background: url(y2.png);
+    background: url(https://imgur.com/a/XHbhCF6.png);
     left: 54px;
 }
 
@@ -166,7 +166,7 @@
 
 .xbox-old .stick {
     position: absolute;
-    background: url(stick2.png);
+    background: url(https://imgur.com/a/iIImWjj.png);
     height: 86px;
     width: 86px;
 }
